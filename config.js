@@ -11,15 +11,15 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Pascal',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Guten Morgen!',
+  greetingAfternoon: 'Guten Nachmittag!,',
+  greetingEvening: 'Guten Abend!,',
+  greetingNight: 'Geh schlafen!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
